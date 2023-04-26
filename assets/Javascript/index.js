@@ -22,8 +22,6 @@ buttonRight.textContent = " + ";
 buttonRight.id = "buttonRight";
 document.getElementById("container").append(buttonRight);
 
-//! non so se può funzionare
-
 let count = 0;
 counter.textContent = count;
 
