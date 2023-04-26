@@ -20,7 +20,7 @@ h2 {
   color: #cbe4de;
 }
 
-.container {
+#container {
   display: flex;
   align-items: center;
   justify-content: center;
